@@ -1,2 +1,4 @@
-/bin
-/obj
+# User-specific files
+.vs/
+bin/
+obj/
